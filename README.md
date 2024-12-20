@@ -6,3 +6,4 @@ Utilizes Pandas, SciKit learn, and numpy to perform a basic logistical regressio
 To run:
 - Take the project
 - Run sonar_analysis.py
+- Run stock_market_analysis.py
